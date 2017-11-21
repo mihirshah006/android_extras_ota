@@ -3,13 +3,14 @@
   <RomName>PolyOS_mido</RomName>
 <VersionName>PolyOS_Nougat-7.1.2-20171123-mido-v0.1</VersionName>
   <VersionNumber type="integer">20171123</VersionNumber>
-  <DirectUrl>https://qc3.androidfilehost.com/dl/4E_QnlqZ2qgBAcVTDRvPYQ/1511518821/745849072291690312/PolyOS_Nougat-7.1.2-20171121-land-v0.1.zip</DirectUrl>
+  <DirectUrl>https://qc3.androidfilehost.com/dl/4E_QnlqZ2qgBAcVTDRvPYQ/1511518821/745849072291690312/PolyOS_Nougat-7.1.2-20171121-land-v0.1.zip></DirectUrl>
   <CheckMD5>1c861e8b99e6adae84d30078549f8578</CheckMD5>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
-  <FileSize type="integer"></FileSize>
-  <Developer>Sutharshan Selvendran (Zephoro)</Developer>
+  <FileSize type="integer">543437</FileSize>
+  <Developer>Zephro</Developer>
   <WebsiteURL nil="true" />
-   <Changelog>
--Ohai, nii-chan! :3</Changelog>
+  <Changelog>
+-Ota Integration</Changelog>
   </ROM>
+
