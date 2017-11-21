@@ -1,7 +1,7 @@
 
 ?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>Poly-Os_devicecodename</RomName>
+  <RomName>Poly-OS_devicecodename</RomName>
 <VersionName></VersionName>
   <VersionNumber type="integer">YYYY/MM/DD</VersionNumber>
   <DirectUrl>Direct link of rom</DirectUrl>
