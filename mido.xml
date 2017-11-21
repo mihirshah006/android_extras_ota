@@ -2,16 +2,15 @@
 <ROM>
   <RomName>PolyOS_mido</RomName>
 <VersionName></VersionName>
-  <VersionNumber type="integer">20171121</VersionNumber>
-  <DirectUrl></DirectUrl>
-  <CheckMD5></CheckMD5>
+  <VersionNumber type="integer">20171122</VersionNumber>
+  <DirectUrl>https://google.com</DirectUrl>
+  <CheckMD5>6748340293hfskjdfbwe7f7df9sd8fsdf</CheckMD5>
   <HttpUrl nil="true" />
   <Android>7.1.2</Android>
   <FileSize type="integer"></FileSize>
   <Developer>Sutharshan Selvendran (Zephoro)</Developer>
   <WebsiteURL nil="true" />
    <Changelog>
-
-  </Changelog>
+Ohai, nee chan</Changelog>
   </ROM>
   
