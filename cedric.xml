@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>PolyOS_cedric</RomName>
+  <VersionName>0.1</VersionName>
+  <VersionNumber type="integer">20171117</VersionNumber>
+  <DirectUrl></DirectUrl>
+  <HttpUrl nil="true" />
+  <Android>7.1.2</Android>
+  <CheckMD5>70a87db7700b2b86ad3d5e3da1efe9bd</CheckMD5>
+  <FileSize type="integer">476682649</FileSize>
+  <Developer>ATechnoHazard</Developer>
+  <WebsiteURL nil="true" />
+  <DonateURL></DonateURL>
+  <Changelog>
+  * Allahu Akbar</Changelog>
+</ROM>
