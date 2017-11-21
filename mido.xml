@@ -1,0 +1,17 @@
+?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>Poly-Os_mido</RomName>
+<VersionName></VersionName>
+  <VersionNumber type="integer">20171121</VersionNumber>
+  <DirectUrl></DirectUrl>
+  <CheckMD5></CheckMD5>
+  <HttpUrl nil="true" />
+  <Android>7.1.2</Android>
+  <FileSize type="integer"></FileSize>
+  <Developer>Sutharshan Selvendran (Zephoro)</Developer>
+  <WebsiteURL nil="true" />
+   <Changelog>
+
+  </Changelog>
+  </ROM>
+  
